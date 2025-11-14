@@ -4,7 +4,7 @@
     primaryThrust: useInspired/DA
     description: An open-source orchestration engine designed to automate and scale the transformation of raw Unmanned Aerial Systems (UAS) imagery into structured, AI-ready datasets for agricultural research.
     status: AlphaRelease
-    targetIcicleRelease: 2023-04
+    targetIcicleRelease: 2025-12
     publicAccess: true
     componentVersion: v0.1
     licenseUrl: Unknown
