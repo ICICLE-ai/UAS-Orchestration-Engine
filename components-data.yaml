@@ -1,0 +1,23 @@
+  - id: UASOE
+    owner: Lucas Waltz
+    name: Orchestration Engine for Unmanned Aerial Systems Imagery
+    primaryThrust: useInspired/DA
+    description: An open-source orchestration engine designed to automate and scale the transformation of raw Unmanned Aerial Systems (UAS) imagery into structured, AI-ready datasets for agricultural research.
+    status: AlphaRelease
+    targetIcicleRelease: 2023-04
+    publicAccess: true
+    componentVersion: v0.1
+    licenseUrl: Unknown
+    releaseNotesUrl:
+    citation: Lucas Waltz, Sarikaa Sridhar, Ryan Waltz, Paul Rodriguez, Chaeun Hong, Armeen Ghoorkhanian, Nicole DiMarco, Raghu Machiraju, and Sami Khanal. 2025. An Orchestration Engine for Scalable, On-Demand AI Phenotyping from UAS Imagery in Agriculture. In The 33rd ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL ’25), November 3–6, 2025, Minneapolis, MN, USA. ACM, New York, NY, USA, 11 pages.
+    codeReviewConducted: true
+    testsWritten: true
+    securityReviewConducted: false
+    usageDocumentationAvailable: true
+    usageDocumentationUrl:
+    developerDocumentationAvailable:
+    developerDocumentationUrl:
+    trainingTutorialsAvailable:
+    trainingTutorialsUrl:
+    usageMetricsCollected: true 
+
